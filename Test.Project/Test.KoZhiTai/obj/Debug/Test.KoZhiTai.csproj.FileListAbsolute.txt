@@ -1,0 +1,5 @@
+c:\users\alvin\documents\visual studio 2013\Projects\Test.Project\Test.KoZhiTai\bin\Debug\Test.KoZhiTai.exe
+c:\users\alvin\documents\visual studio 2013\Projects\Test.Project\Test.KoZhiTai\bin\Debug\Test.KoZhiTai.pdb
+c:\users\alvin\documents\visual studio 2013\Projects\Test.Project\Test.KoZhiTai\obj\Debug\Test.KoZhiTai.csprojResolveAssemblyReference.cache
+c:\users\alvin\documents\visual studio 2013\Projects\Test.Project\Test.KoZhiTai\obj\Debug\Test.KoZhiTai.exe
+c:\users\alvin\documents\visual studio 2013\Projects\Test.Project\Test.KoZhiTai\obj\Debug\Test.KoZhiTai.pdb
